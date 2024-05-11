@@ -1,0 +1,19 @@
+{
+  "name": "scraper-twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrap": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.44.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
